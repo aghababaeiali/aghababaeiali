@@ -102,8 +102,7 @@ Fine-tuned BERT and RoBERTa, applied Integrated Gradients via Captum for token-l
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aghababaeiali&theme=dracula&column=4&margin-w=10&margin-h=10" width="80%"/>
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=aghababaeiali&column=4&margin-w=10&margin-h=10" width="80%"/></p>
 
 ---
 
