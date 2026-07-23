@@ -101,8 +101,6 @@ Fine-tuned BERT and RoBERTa, applied Integrated Gradients via Captum for token-l
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aghababaeiali&theme=tokyonight" width="70%"/>
 </p>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aghababaeiali&column=4&margin-w=10&margin-h=10" width="80%"/></p>
 
 ---
 
