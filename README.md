@@ -93,8 +93,8 @@ Fine-tuned BERT and RoBERTa, applied Integrated Gradients via Captum for token-l
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aghababaeiali&show_icons=true&theme=tokyonight&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aghababaeiali&layout=compact&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aghababaeiali&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aghababaeiali&layout=compact&theme=tokyonight" width="48%"/>
 </p>
 
 <p align="center">
