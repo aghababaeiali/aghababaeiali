@@ -98,10 +98,6 @@ End-to-end RAG with FastAPI, Docker, GitHub Actions CI/CD. Improved Faithfulness
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aghababaeiali&layout=compact&theme=tokyonight" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aghababaeiali&theme=tokyonight" width="70%"/>
-</p>
-
 
 ---
 
