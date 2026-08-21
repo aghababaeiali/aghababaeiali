@@ -91,16 +91,6 @@ End-to-end RAG with FastAPI, Docker, GitHub Actions CI/CD. Improved Faithfulness
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aghababaeiali&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aghababaeiali&layout=compact&theme=tokyonight" width="48%"/>
-</p>
-
-
----
-
 ### 📄 Publications
 
 - **Application of Integrated Gradients Explainability to Sociopsychological Semantic Markers** — arXiv preprint (2025) — [Read](https://arxiv.org/abs/2503.04989)
